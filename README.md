@@ -79,36 +79,48 @@ Nicht vorsteuerabzugsberechtigt
 
 | Beschreibung der Ausgabe |   Betrag in € | Link                                                                                                         |
 | :----------------------- | ------------: | :----------------------------------------------------------------------------------------------------------- |
-| Nähmaschine              |      600,00 € | https://www.naehwelt-flach.de/brother-innov-is-a65-computer-naehmaschine-testsieger.html                     |
+| Nähmaschine              |      599,00 € | https://www.naehwelt-flach.de/brother-innov-is-a65-computer-naehmaschine-testsieger.html                     |
 | Overlock                 |      945,00 € | https://www.naehwelt-flach.de/baby-lock-enspire-4-faden-overlock-oxid.html                                   |
 | ~~Overlock + Cover~~     |    1.300,00 € | https://www.naehwelt-flach.de/juki-mo-735-4-3-faden-overlock-cover-2-5-5mm.html                              |
-| Schmalkantfuß            |       25,00 € | https://internaeht.de/Bernette-Schmalkantfuss-fuer-B37-B38                                                   |
+| Schmalkantfuß            |       22,31 € | https://internaeht.de/Bernette-Schmalkantfuss-fuer-B37-B38                                                   |
 | ~~Nähfußset~~            |      105,00 € | https://www.naehwelt-flach.de/bernette-naehmaschinen-naehfuss-set-10-teilig-b37-b38.html                     |
-| Nähgarn                  |       65,00 € | https://www.naehwelt-flach.de/naehwelt-flach-toldi-guetermann-acryl-garnbox-mit-40-farben-500-m.html         |
-| Stickrahmen              |      570,00 € | https://makema.de/products/bernette-magnetischer-stickrahmen?variant=55249530225015                          |
+| Nähgarn                  |       64,90 € | https://www.naehwelt-flach.de/naehwelt-flach-toldi-guetermann-acryl-garnbox-mit-40-farben-500-m.html         |
+| Stickrahmen              |      567,00 € | https://makema.de/products/bernette-magnetischer-stickrahmen?variant=55249530225015                          |
 |                          |               | https://makema.de/products/bernette-magnetischer-stickrahmen?variant=55249530257783                          |
 |                          |               | https://makema.de/products/bernette-magnetischer-stickrahmen?variant=55249530290551                          |
-| Stickfolie               |       30,00 € | https://makema.de/products/sulky-solvy                                                                       |
+| Stickfolie               |       27,80 € | https://makema.de/products/sulky-solvy                                                                       |
 |                          |               | https://makema.de/products/sulky-ultra-solvy                                                                 |
-| Schneidplottermatte      |       55,00 € | https://www.naehwelt-flach.de/brother-cm-dc-scanncut-standardmatte-30-5-cm-x-61-cm.html                      |
+| Schneidplottermatte      |       52,10 € | https://www.naehwelt-flach.de/brother-cm-dc-scanncut-standardmatte-30-5-cm-x-61-cm.html                      |
 |                          |               | https://www.naehwelt-flach.de/plottix-freshmat-spruehkleber-250-ml-geeignet-fuer-plotter-schneidematten.html |
-| **SUMME**                | **2290,00 €** |
+| **SUMME**                | **2278,11 €** |
 
-Zuwendungsfähige Ausgaben: 2.290,00 €  
+Zuwendungsfähige Ausgaben: 2.2278,11 €  
 Automatisch beantragte Zuwendung: 2.000,00 €  
 Hochgeladene Dokumente:  
-Ausgaben:  
-\---  
+
+Ausgaben:
+- [1 - Nähmaschine - Nähwelt Flach.png](./Angebote/1%20-%20Nähmaschine%20-%20Nähwelt%20Flach.png) 3.9 MiB
+- [2 - Overlock - Nähwelt Flach.png](./Angebote/2%20-%20Overlock%20-%20Nähwelt%20Flach.png) 2.3 MiB
+- [3 - Schmalkantfuß - internaeht.d](./Angebote/3%20-%20Schmalkantfuß%20-%20internaeht.d)e.png 990 KiB
+- [4 - Nähgarn - Nähwelt Flach.png](./Angebote/4%20-%20Nähgarn%20-%20Nähwelt%20Flach.png) 1.4 MiB
+- [5.1 - Stickrahmen - Make ma!.png](./Angebote/5.1%20-%20Stickrahmen%20-%20Make%20ma!.png) 1.5 MiB
+- [5.2 - Stickrahmen - Make ma!.png](./Angebote/5.2%20-%20Stickrahmen%20-%20Make%20ma!.png) 1.6 MiB
+- [5.3 - Stickrahmen - Make ma!.png](./Angebote/5.3%20-%20Stickrahmen%20-%20Make%20ma!.png) 1.5 MiB
+- [6.1 - Stickfolie - Make ma!.png](./Angebote/6.1%20-%20Stickfolie%20-%20Make%20ma!.png) 3.2 MiB
+- [6.2 - Stickfolie - Make ma!.png](./Angebote/6.2%20-%20Stickfolie%20-%20Make%20ma!.png) 2.3 MiB
+- [7.1 - Schneidplottermatte - Nähwelt Flac](./Angebote/7.1%20-%20Schneidplottermatte%20-%20Nähwelt%20Flac)h.png 930 KiB
+- [7.2 - Schneidplottermatte - Nähwelt Flach.png](./Angebote/7.2%20-%20Schneidplottermatte%20-%20Nähwelt%20Flach.png) 1.1 MiB
+
 Einnahmen:  
 \---
 
 ## Dokumentenupload:
 
 Registereinträge:  
-  [Vereinsregisterauszug VR 1720.pdf](./Dokumente/Vereinsregisterauszug%20VR%201720.pdf) 152 KiB
+- [Vereinsregisterauszug VR 1720.pdf](./Dokumente/Vereinsregisterauszug%20VR%201720.pdf) 152 KiB
 
 Vereinssatzung:  
-  [Satzung.pdf](./Dokumente/Satzung.pdf) 294 KiB
+- [Satzung.pdf](./Dokumente/Satzung.pdf) 294 KiB
 
 ## Zustimmungen:
 
