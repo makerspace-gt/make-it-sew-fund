@@ -127,3 +127,130 @@ Vereinssatzung:
 - Veröffentlichung meiner Förderdaten – Zustimmung erteilt
 - Keine Finanzierung terroristischer Aktivitäten – Zustimmung erteilt
 - Hinweis zum Datenschutz – Zustimmung erteilt
+
+# make it sew - Verwendungsnachweis
+
+## Antragsteller:in  
+
+|                                |                          |
+| ------------------------------ | ------------------------ |
+| Bezeichnung des Antragstellers | Makerspce Gütersloh e.V. |
+| Anrede                         | Ohne                     |
+| Titel                          |                          |
+| Vorname / Name 1               | Makerspce Gütersloh e.V. |
+| Nachname / Name 2              |                          |
+| Straße und Nr.                 | Bogenstraße 1-8          |
+| PLZ                            | 33330                    |
+| Ort                            | Gütersloh                |
+| Postfach                       |                          |
+| PLZ Postfach                   |                          |
+| Ort Postfach                   |                          |
+| Telefon                        | +49 5241 2249913         |
+| Fax                            |                          |
+| E-Mail                         | post@makerspace-gt.de    |
+| DE-Mail                        |                          |
+| IBAN                           | DE52478601251226231500   |
+
+## Vertretungsberechtigte Person
+
+|                        |                       |
+| ---------------------- | --------------------- |
+| Anrede                 | Ohne                  |
+| Titel                  |                       |
+| Vorname / Name 1       | Michael               |
+| Nachname / Name 2      | Prange                |
+| Organ / Vertretungsart | Vorstand              |
+| Straße und Nr.         | Bogenstraße 1-8       |
+| PLZ                    | 33330                 |
+| Ort                    | Gütersloh             |
+| Telefon                | +49 5241 2249913      |
+| Fax                    |                       |
+| E-Mail                 | post@makerspace-gt.de |
+| DE-Mail                |                       |
+
+## Ansprechpartner:in
+
+|                |                       |
+| -------------- | --------------------- |
+| Anrede         | Ohne                  |
+| Titel          |                       |
+| Vorname        | Michael               |
+| Nachname       | Prange                |
+| Straße und Nr. | Bogenstraße 1-8       |
+| PLZ            | 33330                 |
+| Ort            | Gütersloh             |
+| Telefon        | +49 5241 2249913      |
+| E-Mail         | post@makerspace-gt.de |
+
+## Angaben zur Maßnahme/ zum Vorhaben
+
+|                              |                                              |
+| ---------------------------- | -------------------------------------------- |
+| Betreff                      | Verwendungsnachweis zur Maßnahme make it sew |
+| Position                     | 1.1 Heimat-Scheck                            |
+| Bewilligung vom              | 28.10.2025                                   |
+| Aktenzeichen                 | 35.12.01.001/2025-GT-021                     |
+| über                         | 2.000,00 €                                   |
+| Insgesamt bewilligt          | 2.000,00 €                                   |
+| Insgesamt ausgezahlt wurden: |                                              |
+
+## Sachbericht
+
+1. Die durchgeführte Maßnahme ist unter anderem mit Beginn, Dauer, Abschluss, Erfolg und Auswirkungen der Maßnahme kurz darzustellen. Gegebenenfalls können auch Videos, Fotos oder ähnliche Darstellungen beigefügt oder auf deren Fundstelle hingewiesen werden. 
+2. Bestätigung, dass die Maßnahmen entsprechend dem Zuwendungsantrag und dem Zuwendungsbescheid durchgeführt worden sind, und zwar in Bezug auf die zu Grunde liegenden Planungen, die Qualität und die Standards. Wesentliche Abweichungen sind im Detail in vergleichender Darstellung (Antrag sowie tatsächliche Ausführung) zu beschreiben. 
+3. Bestätigung, dass zuwendungsfähige Ausgaben mindestens in Höhe des Finanzierungsplanes des Zuwendungsantrags und des Zuwendungsbescheids entstanden sind.
+
+### Sachbericht
+
+
+
+## Zahlenmäßiger Nachweis
+
+| Nr. | Leistendes Unternehmen | Art der Leistung | Zahldatum | Betrag in EUR |
+| --- | ---------------------- | ---------------- | --------- | ------------: |
+|     |                        |                  |           |               |
+|     |                        |                  |           |               |
+|     |                        |                  |           |               |
+|     |                        |                  |           |               |
+|     |                        |                  |           |               |
+|     |                        |                  |           |               |
+|     |                        |                  |           |               |
+|     |                        |                  |           |               |
+|     |                        |                  |           |               |
+
+
+|                                                                |            |
+| -------------------------------------------------------------- | ---------: |
+| Summe Gesamtkosten                                             |            |
+| abzgl. Einnahmen und Leistungen Dritter                        |            |
+| Zuwendungsfähige Gesamtausgaben                                |            |
+| Förderbetrag                                                   | 2.000,00 € |
+| verbleibender Eigenanteil (oder gegebenenfalls Rückzahlbetrag) |            |
+
+Ist die Ausgabensumme niedriger als der Förderbetrag, so sind die Gründe der Ausgabenveränderung darzustellen. Der Differenzbetrag ist zudem umgehend zurückzuzahlen..
+
+## Bestätigungen
+
+Es wird bestätigt, dass...
+
+- [x] die Allgemeinen und Besonderen Nebenbestimmungen des Zuwendungsbescheides beachtet wurden,
+- [x] die Ausgaben notwendig waren, wirtschaftlich und sparsam verfahren worden ist und die Angaben im Verwendungsnachweis mit den Büchern und Belegen übereinstimmen,
+- [x] für die Durchführung der Maßnahme keine weitere Förderung von Dritten gewährt wurde oder noch gewährt wird,
+- [x] die Originalbelege für die Dauer von fünf Kalenderjahren nach Vorlage dieses Verwendungsnachweises für Prüfzwecke vorgehalten werden und
+- die Antragstellerin oder der Antragsteller zum Vorsteuerabzug:
+  - [x] nicht berechtigt beziehungsweise
+  - [ ] berechtigt ist und dies bei der Berechnung der Ausgaben berücksichtigt hat.
+
+## Dokumentenupload
+
+| Bezeichnung | Name | Größe | Bearbeiten |
+| ----------- | ---- | ----- | ---------- |
+|             |      |       |            |
+|             |      |       |            |
+|             |      |       |            |
+|             |      |       |            |
+|             |      |       |            |
+|             |      |       |            |
+|             |      |       |            |
+|             |      |       |            |
+|             |      |       |            |
