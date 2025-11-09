@@ -22,3 +22,14 @@ c/o Die WEBEREI – Bürgerkiez gGmbH
 Bogenstraße 1-8  
 33330 Gütersloh  
 Weitere Informationen unter https://makerspace-gt.de
+
+---
+
+Da wir als Großhändler agieren, sind wir vertraglich an unsere Händler gebunden. Das heißt, wir können Ihnen daher leider kein Angebot unterbreiten.
+Sie können sich mit Ihrer Anfrage aber sehr gern an unsere Händler wenden. Unter www.babylock.de/kaufen finden Sie eine Übersicht unserer Händler. Direkt in Gütersloh sitzt Nähmaschinen Handwerk, den Sie fragen könnten, ansonsten ist auch SchwaaBa in Schwelm sehr engagiert bei Hilfsprojekten, sodass ich mir vorstellen könnte, dass sie Ihnen auch eine große Hilfe sein könnte.
+
+Wir wünschen Ihnen viel Erfolg mit Ihrem Projekt.
+
+---
+
+vielen Dank für Ihre Antwort. Wir werden uns an die von Ihnen empfohlenen Händler wenden.
