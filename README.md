@@ -206,18 +206,11 @@ Vereinssatzung:
 
 ## Zahlenmäßiger Nachweis
 
-| Nr. | Leistendes Unternehmen | Art der Leistung | Zahldatum | Betrag in EUR |
-| --- | ---------------------- | ---------------- | --------- | ------------: |
-|     |                        |                  |           |               |
-|     |                        |                  |           |               |
-|     |                        |                  |           |               |
-|     |                        |                  |           |               |
-|     |                        |                  |           |               |
-|     |                        |                  |           |               |
-|     |                        |                  |           |               |
-|     |                        |                  |           |               |
-|     |                        |                  |           |               |
-
+|  Nr.  | Leistendes Unternehmen              | Art der Leistung                          | Zahldatum  | Betrag in EUR | Kommentar  | URL                                                                                                                  |
+| :---: | ----------------------------------- | ----------------------------------------- | ---------- | ------------: | ---------- | -------------------------------------------------------------------------------------------------------------------- |
+|   1   | Brother Sewing Machines Europe GmbH | Nähmaschine Brother Innov-is A65          | 10.11.2025 |        0,00 € | Sachspende | https://sewingcraft.brother.eu/de-de/produkte/maschinen/naehmaschinen/naehmaschinen-fuer-anfaenger/innov-is-a65      |
+|   2   | Brother Sewing Machines Europe GmbH | Overlock Brother Airflow 3000             | 10.11.2025 |        0,00 € | Sachspende | https://sewingcraft.brother.eu/de-de/produkte/maschinen/overlock-maschinen/overlock-coverstichmaschinen/airflow-3000 |
+|   3   | Brother Sewing Machines Europe GmbH | Coverstich Brother CV3550                 | 10.11.2025 |        0,00 € | Sachspende | https://sewingcraft.brother.eu/de-de/produkte/maschinen/overlock-maschinen/overlock-coverstichmaschinen/cv3550       |
 
 |                                                                |            |
 | -------------------------------------------------------------- | ---------: |

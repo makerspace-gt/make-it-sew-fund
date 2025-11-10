@@ -22,3 +22,44 @@ c/o Die WEBEREI – Bürgerkiez gGmbH
 Bogenstraße 1-8  
 33330 Gütersloh  
 Weitere Informationen unter https://makerspace-gt.de
+
+---
+
+vielen Dank für Ihre Anfrage.
+Cover und Overlock wären kein Problem!  
+Nähmaschine werde ich suchen.  
+Ist eine Maschine ausreichend (1 Nähmaschine ausreichend)?
+
+---
+
+das klingt großartig!
+
+Wir haben vorerst an eine Nähmaschine gedacht, haben aber Platz für bis zu drei, falls Sie noch mehr finden.
+
+---
+
+Ok, wir können Ihnen folgendes anbieten:
+
+Nähmaschine: 1 x Brother A65  
+Overlock: 1 x Brother Airflow  
+Coverstich:1 x Brother CV3550  
+
+Wenn Sie das Angebot annehmen möchten, sagen Sie uns bitte kurz Bescheid und senden Sie und die Lieferadresse.
+
+---
+
+sehr gerne nehmen wir das Angebot an!  
+Falls gewünscht, stellen wir eine Spendenbescheinigung aus, wenn Sie uns den Wert der Maschinen mitteilen.
+
+Bitte senden Sie die Maschinen, abweichend von der Vereinsanschrift, zu meiner Adresse.
+
+Wir werden im Laufe der nächsten Wochen Bilder von den Maschinen im Einsatz bei unserer Nähbar machen und diese auf Instagram posten. Außerdem werden wir Brother als Unterstützer auf unserer Website aufführen.
+
+Herzlichen Dank im Namen der Mitglieder und viele Grüße
+
+---
+
+vielen Dank!  
+Wir benötigen keine Spendenbescheinigung.  
+Wir leiten alles weitere in die Wege.
+
