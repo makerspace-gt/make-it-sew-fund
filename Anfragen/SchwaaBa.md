@@ -27,3 +27,11 @@ Bogenstraße 1-8
 33330 Gütersloh
 
 Weitere Informationen unter https://makerspace-gt.de
+
+---
+
+anbei sende ich Dir unser Angebot für die Brother A65 sowie die baby lock enspire.  
+Dabei profitierst Du von unserem aktuellen Hausmessepreis – ein wirklich attraktives Angebot, das wir Dir gerne weitergeben möchten.
+
+Wenn Du das Angebot annehmen möchtest, freuen wir uns sehr über eine kurze Rückmeldung von Dir.  
+Solltest Du noch Fragen haben oder weitere Informationen wünschen, stehen wir Dir selbstverständlich jederzeit gerne zur Verfügung.
