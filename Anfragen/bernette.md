@@ -23,3 +23,21 @@ c/o Die WEBEREI – Bürgerkiez gGmbH
 Bogenstraße 1-8  
 33330 Gütersloh  
 Weitere Informationen unter https://makerspace-gt.de
+
+---
+
+Ihre Mail von letzter Woche ist bei uns angekommen, allerdings bitten wir Sie um etwas Geduld, um diese bearbeiten zu können.
+
+---
+
+
+können Sie schon abschätzen, wie lange sie zur Bearbeitung brauchen?  
+Wir planen aktuell Termine für unser Adventsbasteln und ein Projekt dabei sind bestickte und selbstgenähte Geschenkbeutel, für die wir die Stickrahmen und weitere Maschinen gut gebrauchen können.
+
+---
+
+Wir würden Sie gerne bitten sich mit Ihrem Anliegen an den örtlichen Fachhandel zu wenden.
+
+Unsere bernette Fachhandelspartner können Sie vor Ort kompetent beraten und Ihnen ggf. auch entsprechende Angebote zur Ausstattung Ihres Makerspace unterbreiten. Mit einem Fachhändler vor Ort haben Sie auch immer einen Ansprechpartner an der Seite, der Ihnen schnell zur Seite steht, sollte es zu dringenden Anliegen oder Fragen kommen.
+
+Wir wünschen wünschen Ihnen weiterhin viel Erfolg bei Ihren Projekten! 
