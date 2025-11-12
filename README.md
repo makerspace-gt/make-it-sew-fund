@@ -216,6 +216,9 @@ Vereinssatzung:
 |   6   | Make ma GmbH                        | Magnetischer Stickrahmen bernette 14x26cm | 11.11.2025 |      194,65 € |                          34,35 € | 15% Rabatt | https://makema.de/products/bernette-magnetischer-stickrahmen?variant=55249530290551                                  |
 |   7   | Make ma GmbH                        | Stickfolie SULKY Solvy                    | 11.11.2025 |       17,52 € |                           4,38 € | 20% Rabatt | https://makema.de/products/sulky-solvy?variant=55248984899959                                                        |
 |   8   | Make ma GmbH                        | Stickfolie SULKY Ultra Solvy              | 11.11.2025 |       17,52 € |                           4,38 € | 20% Rabatt | https://makema.de/products/sulky-ultra-solvy?variant=55248968253815                                                  |
+|   9   | Keller Nähmaschinen + Service       | Nähmaschine Brother Innov-is A65          | 12.11.2025 |      495,00 € |            |            | https://internaeht.de/gebraucht/brother-innovis-a65                                                                     |
+|  10   | Keller Nähmaschinen + Service       | Schmalkantfuß Bernette B37/B38            | 12.11.2025 |       22,31 € |            |            | https://internaeht.de/Bernette-Schmalkantfuss-fuer-B37-B38                                                              |
+|  11   | Keller Nähmaschinen + Service       | Anti-Haft-Fuß Brother F008N               | 12.11.2025 |       14,95 € |            |            | https://internaeht.de/Brother-Anti-Haft-Fuss-fuer-CB-Greifer-F008N                                                      |
 
 |                                                                |            |
 | -------------------------------------------------------------- | ---------: |
