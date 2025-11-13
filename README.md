@@ -79,22 +79,22 @@ Nicht vorsteuerabzugsberechtigt
 
 ## Gesamtkosten:
 
-| Beschreibung der Ausgabe |   Betrag in € | Link                                                                                                         |
-| :----------------------- | ------------: | :----------------------------------------------------------------------------------------------------------- |
-| Nähmaschine              |      599,00 € | https://www.naehwelt-flach.de/brother-innov-is-a65-computer-naehmaschine-testsieger.html                     |
-| Overlock                 |      945,00 € | https://www.naehwelt-flach.de/baby-lock-enspire-4-faden-overlock-oxid.html                                   |
-| ~~Overlock + Cover~~     |    1.300,00 € | https://www.naehwelt-flach.de/juki-mo-735-4-3-faden-overlock-cover-2-5-5mm.html                              |
-| Schmalkantfuß            |       22,31 € | https://internaeht.de/Bernette-Schmalkantfuss-fuer-B37-B38                                                   |
-| ~~Nähfußset~~            |      105,00 € | https://www.naehwelt-flach.de/bernette-naehmaschinen-naehfuss-set-10-teilig-b37-b38.html                     |
-| Nähgarn                  |       64,90 € | https://www.naehwelt-flach.de/naehwelt-flach-toldi-guetermann-acryl-garnbox-mit-40-farben-500-m.html         |
-| Stickrahmen              |      567,00 € | https://makema.de/products/bernette-magnetischer-stickrahmen?variant=55249530225015                          |
-|                          |               | https://makema.de/products/bernette-magnetischer-stickrahmen?variant=55249530257783                          |
-|                          |               | https://makema.de/products/bernette-magnetischer-stickrahmen?variant=55249530290551                          |
-| Stickfolie               |       27,80 € | https://makema.de/products/sulky-solvy                                                                       |
-|                          |               | https://makema.de/products/sulky-ultra-solvy                                                                 |
-| Schneidplottermatte      |       52,10 € | https://www.naehwelt-flach.de/brother-cm-dc-scanncut-standardmatte-30-5-cm-x-61-cm.html                      |
-|                          |               | https://www.naehwelt-flach.de/plottix-freshmat-spruehkleber-250-ml-geeignet-fuer-plotter-schneidematten.html |
-| **SUMME**                | **2278,11 €** |
+| Beschreibung der Ausgabe |    Betrag in € | Link                                                                                                         |
+| :----------------------- | -------------: | :----------------------------------------------------------------------------------------------------------- |
+| Nähmaschine              |       599,00 € | https://www.naehwelt-flach.de/brother-innov-is-a65-computer-naehmaschine-testsieger.html                     |
+| Overlock                 |       945,00 € | https://www.naehwelt-flach.de/baby-lock-enspire-4-faden-overlock-oxid.html                                   |
+| ~~Overlock + Cover~~     |     1.300,00 € | https://www.naehwelt-flach.de/juki-mo-735-4-3-faden-overlock-cover-2-5-5mm.html                              |
+| Schmalkantfuß            |        22,31 € | https://internaeht.de/Bernette-Schmalkantfuss-fuer-B37-B38                                                   |
+| ~~Nähfußset~~            |       105,00 € | https://www.naehwelt-flach.de/bernette-naehmaschinen-naehfuss-set-10-teilig-b37-b38.html                     |
+| Nähgarn                  |        64,90 € | https://www.naehwelt-flach.de/naehwelt-flach-toldi-guetermann-acryl-garnbox-mit-40-farben-500-m.html         |
+| Stickrahmen              |       567,00 € | https://makema.de/products/bernette-magnetischer-stickrahmen?variant=55249530225015                          |
+|                          |                | https://makema.de/products/bernette-magnetischer-stickrahmen?variant=55249530257783                          |
+|                          |                | https://makema.de/products/bernette-magnetischer-stickrahmen?variant=55249530290551                          |
+| Stickfolie               |        27,80 € | https://makema.de/products/sulky-solvy                                                                       |
+|                          |                | https://makema.de/products/sulky-ultra-solvy                                                                 |
+| Schneidplottermatte      |        52,10 € | https://www.naehwelt-flach.de/brother-cm-dc-scanncut-standardmatte-30-5-cm-x-61-cm.html                      |
+|                          |                | https://www.naehwelt-flach.de/plottix-freshmat-spruehkleber-250-ml-geeignet-fuer-plotter-schneidematten.html |
+| **SUMME**                | **2.278,11 €** |
 
 Zuwendungsfähige Ausgaben: 2.2278,11 €  
 Automatisch beantragte Zuwendung: 2.000,00 €  
