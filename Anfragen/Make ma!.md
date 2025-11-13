@@ -91,3 +91,25 @@ Gilt der 20% Rabatt auch, wenn wir die Software als Kaufversion und nicht im Abo
 ---
 
 die Software habe ich rausgenommen. Aber wir können auch auf die Kaufversion die 20% anbieten.
+
+---
+
+Wie ist das mit den Updates bei der Software? Können wir mit der Kaufversion auch immer die neuste Version nutzen oder müssen wir dafür irgendwann noch einmal zahlen?
+
+In den FAQs (https://creativate.com/en-de/pages/faqs) steht es nicht wirklich eindeutig
+
+> What are the benefits of a membership versus buying the software outright?
+> 
+> Purchasing the embroidery software lets you make a one-time purchase so you can keep it forever, free of monthly charges. On the other hand, opting for a CREATIVATE membership ensures you always have access to the latest version of the embroidery software, complete with regularly enhanced features.
+
+---
+
+Die **Einmalkaufversion** stammt offiziell aus dem Jahr **2024** und wird keine weiteren Updates mehr erhalten. Allerdings muss man ehrlich sagen: Die Software hat sich – abgesehen vom Namen – seit **2016** kaum verändert. Die Funktionen sind ausgereift und stabil, und gerade das schätzen viele Nutzerinnen und Nutzer.
+
+Es gibt ein **Feature-Bundle** für die Einmalkaufversion, mit dem man ein paar neuere Funktionen ergänzen kann – das haben wir auch im Programm. Es ist aber kein Muss, eher ein optionales Upgrade für spezielle Anforderungen.
+
+Der große Vorteil der **Einmalkaufversion** ist, dass ihr sie **zeitlich uneingeschränkt** nutzen könnt – also kein Abo, keine Folgekosten – und ihr dürft sie **auf zwei Computern gleichzeitig** installieren. Damit seid ihr völlig unabhängig und habt dauerhaft Zugriff auf alle Funktionen.
+
+---
+
+danke für die Erläuterung. Ich denke, das passt dann ganz gut für uns.
