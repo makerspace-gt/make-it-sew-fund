@@ -248,14 +248,7 @@ Es wird bestätigt, dass...
 
 ## Dokumentenupload
 
-| Bezeichnung | Name | Größe | Bearbeiten |
-| ----------- | ---- | ----- | ---------- |
-|             |      |       |            |
-|             |      |       |            |
-|             |      |       |            |
-|             |      |       |            |
-|             |      |       |            |
-|             |      |       |            |
-|             |      |       |            |
-|             |      |       |            |
-|             |      |       |            |
+| Bezeichnung                                    | Name                                                                                  |                                                    |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| Partnerschaft Niemöller & Abel X Makerspace GT | [c1a6127715b34564c0fe909c3f242787.jpg](./Bilder/c1a6127715b34564c0fe909c3f242787.jpg) | ![](./Bilder/c1a6127715b34564c0fe909c3f242787.jpg) |
+| Stoffspende Niemöller & Abel                   | [5340f285f8da1fb870a04df561445f24.jpg](./Bilder/5340f285f8da1fb870a04df561445f24.jpg) | ![](./Bilder/5340f285f8da1fb870a04df561445f24.jpg) |
