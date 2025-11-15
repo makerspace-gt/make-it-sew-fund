@@ -248,7 +248,15 @@ Es wird bestätigt, dass...
 
 ## Dokumentenupload
 
-| Bezeichnung                                    | Name                                                                                  |                                                    |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| Partnerschaft Niemöller & Abel X Makerspace GT | [c1a6127715b34564c0fe909c3f242787.jpg](./Bilder/c1a6127715b34564c0fe909c3f242787.jpg) | ![](./Bilder/c1a6127715b34564c0fe909c3f242787.jpg) |
-| Stoffspende Niemöller & Abel                   | [5340f285f8da1fb870a04df561445f24.jpg](./Bilder/5340f285f8da1fb870a04df561445f24.jpg) | ![](./Bilder/5340f285f8da1fb870a04df561445f24.jpg) |
+|  Nr.  | Bezeichnung                                    | Name                                                                                  |                                                    |
+| :---: | ---------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------- |
+|   1   | make it sew auf einen Blick                    |                                                                                       |                                                    |
+|   2   | Partnerschaft Niemöller & Abel X Makerspace GT | [c1a6127715b34564c0fe909c3f242787.jpg](./Bilder/c1a6127715b34564c0fe909c3f242787.jpg) | ![](./Bilder/c1a6127715b34564c0fe909c3f242787.jpg) |
+|   3   | Stoffspende Niemöller & Abel                   | [5340f285f8da1fb870a04df561445f24.jpg](./Bilder/5340f285f8da1fb870a04df561445f24.jpg) | ![](./Bilder/5340f285f8da1fb870a04df561445f24.jpg) |
+|   4   | Maschinenspende Brother                        |                                                                                       |                                                    |
+|   5   | Stickzubehör Make ma!                          |                                                                                       |                                                    |
+|   6   | Nähmaschine internaeht.de                      |                                                                                       |                                                    |
+|   7   | Füße internaeht.de                             |                                                                                       |                                                    |
+|   8   | Nähgarn Nähwelt Flach                          |                                                                                       |                                                    |
+|   9   | Nähnadeln Nähwelt Flach                        |                                                                                       |                                                    |
+|  10   | Schneidplottermatte Nähwelt Flach              |                                                                                       |                                                    |
