@@ -58,7 +58,7 @@ make it sew
 
 Der Makerspace Gütersloh e.V. ist eine offene Werkstatt, in der Maschinen und Werkzeuge gemeinschaftlich erforscht und genutzt werden. Unter dem Motto "Mach doch, was du willst!" animieren wir Mitglieder, Gäste und interessierte Personen dazu, sich selbst kreativ auszuleben und neue Dinge zu erschaffen. Wir haben verschiedene Kenntnisse, von laienhaft interessiert bis professionell, und unterstützen uns einander bei Projekten, die wir alleine nicht umsetzen könnten.
 
-Anlässlich des 200-jährigen Stadtjubiläums möchten wir mit dem Projekt "Make it Sew" die Textilgeschichte Güterslohs erlebbar machen. Historisch ist diese durch die Nähe zur Stadt Bielefeld begründet und spiegelt sich durch das stilisierte Spinnrad im Wappen der Stadt wider. Wir wollen dem Konsumwahn und der Wegwerfgesellschaft Einhalt zu bieten und den Bürger*innen ein Wertgefühl für Textilprodukte vermitteln, indem sie diese selbst herstellen und reparieren.  
+Anlässlich des 200-jährigen Stadtjubiläums möchten wir mit dem Projekt "make it sew" die Textilgeschichte Güterslohs erlebbar machen. Historisch ist diese durch die Nähe zur Stadt Bielefeld begründet und spiegelt sich durch das stilisierte Spinnrad im Wappen der Stadt wider. Wir wollen dem Konsumwahn und der Wegwerfgesellschaft Einhalt zu bieten und den Bürger*innen ein Wertgefühl für Textilprodukte vermitteln, indem sie diese selbst herstellen und reparieren.  
 Von den ehemals zahlreichen bedeutenden Textilunternehmen der Stadt existieren heute nur noch Güth & Wolf, Niemöller & Abel, Maas Natur und Busch PROtective.
 
 Seit 2020 gibt es in unserer Werkstatt die Möglichkeit zur Textilbearbeitung. Aufgrund der Corona-Pandemie hat es jedoch bis April 2024 gedauert, bis sich eine monatliche Nähbar etabliert hat. Diese ist mittlerweile so gut besucht, dass wir regelmäßig an unsere Grenzen stoßen. Wir konnten die Unternehmen Niemöller & Abel und Güth & Wolf auf uns aufmerksam machen. Sie haben uns angeboten, dass wir deren Produkte (Bänder, Gurte und Stoffe, aus denen Arbeits- und Rettungskleidung hergestellt wird) für unsere Projekte in der Nähbar zu verwenden. Durch diese Partnerschaften setzen wir als Verein unser regionales Traditionshandwerk im Kleinen fort.
@@ -195,7 +195,7 @@ Vereinssatzung:
 | Aktenzeichen                 | 35.12.01.001/2025-GT-021                     |
 | über                         | 2.000,00 €                                   |
 | Insgesamt bewilligt          | 2.000,00 €                                   |
-| Insgesamt ausgezahlt wurden: |                                              |
+| Insgesamt ausgezahlt wurden: | 2.000,00 €                                   |
 
 ## Sachbericht
 
