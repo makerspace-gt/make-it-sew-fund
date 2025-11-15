@@ -19,7 +19,7 @@ Bogenstraße 1-8
 33330 Gütersloh
 
 Tel.: +49 5241 2249913  
-E-Mail: post@makerspace-gt.de  
+E-Mail: post@makerspace-gt.de
 
 ## Kontoinformationen
 
@@ -98,7 +98,7 @@ Nicht vorsteuerabzugsberechtigt
 
 Zuwendungsfähige Ausgaben: 2.2278,11 €  
 Automatisch beantragte Zuwendung: 2.000,00 €  
-Hochgeladene Dokumente:  
+Hochgeladene Dokumente:
 
 Ausgaben:
 - [1 - Nähmaschine - Nähwelt Flach.png](./Angebote/1%20-%20Nähmaschine%20-%20Nähwelt%20Flach.png) 3.9 MiB
@@ -118,10 +118,10 @@ Einnahmen:
 
 ## Dokumentenupload:
 
-Registereinträge:  
+Registereinträge:
 - [Vereinsregisterauszug VR 1720.pdf](./Dokumente/Vereinsregisterauszug%20VR%201720.pdf) 152 KiB
 
-Vereinssatzung:  
+Vereinssatzung:
 - [Satzung.pdf](./Dokumente/Satzung.pdf) 294 KiB
 
 ## Zustimmungen:
@@ -133,7 +133,7 @@ Vereinssatzung:
 
 # make it sew - Verwendungsnachweis
 
-## Antragsteller:in  
+## Antragsteller:in
 
 |                                |                          |
 | ------------------------------ | ------------------------ |
