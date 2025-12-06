@@ -203,9 +203,30 @@ Vereinssatzung:
 2. Bestätigung, dass die Maßnahmen entsprechend dem Zuwendungsantrag und dem Zuwendungsbescheid durchgeführt worden sind, und zwar in Bezug auf die zu Grunde liegenden Planungen, die Qualität und die Standards. Wesentliche Abweichungen sind im Detail in vergleichender Darstellung (Antrag sowie tatsächliche Ausführung) zu beschreiben. 
 3. Bestätigung, dass zuwendungsfähige Ausgaben mindestens in Höhe des Finanzierungsplanes des Zuwendungsantrags und des Zuwendungsbescheids entstanden sind.
 
-### Sachbericht
+### Sachbericht (2.000 Zeichen)
 
+#### 22. Februar – das Projekt "make it sew" formt sich als Idee auf der Mitgliederversammlung
+Über Monate wird überlegt, welche Maschinen und Zubehör uns ermöglichen mehr Menschen an dies Handwerk heranzuführen und welche Unternehmen es in der 200-jährigen Stadtgeschichte gab und heute noch gibt.
 
+#### 30. Juli – wir nehmen Kontakt zu Niemöller & Abel und Güth & Wolf auf
+Nach dem Kennenlernen erhalten wir Bänder, Gurte und Stoffe als Spende.
+
+#### 12. Oktober – wir reichen den Förderantrag ein
+Es ist noch Nacharbeit erforderlich. Gesagt, getan, aber aus technischen Gründen können wir den Antrag nicht einreichen. Der Text ist "zu lang". Gekürzt und erneut eingereicht.
+
+#### 28. Oktober – die Förderung wird bewilligt
+Wir schreiben Anfragen an Hersteller und Händler. Brother spendet uns je eine Overlock, Coverstitch und Näh- und Quiltmaschine. Make ma! gibt uns Rabatte auf Stickrahmen und Verbrauchsmaterialien.  
+Durch die Sachspende und die Rabatte haben wir wesentlich weniger Ausgaben als gedacht und können zusätzlich noch eine professionelle Sticksoftware, weitere Nähgarne und Nähnadeln für spezielle Anwendungen kaufen.
+ 
+#### 18. November – Nähbar
+Da ein Garn nicht vorrätig ist, steht die Bestellung bei Nähwelt Flach noch aus. Ansonsten ist alles angekommen und wird inspiziert. Auch eine gebrauchte Brother Innov-is A65 haben wir trotz der Maschinenspende gekauft, da diese nicht so überwältigend und damit besser für Anfänger*innen geeignet ist.
+
+#### 16. Dezember – Geschenkbeutel nähen
+Mittlerweile haben wir Erfahrung mit den Maschinen und der Sticksoftware gemacht und nähen Geschenkbeutel für uns und als Dank für unsere Unterstützer*innen – NRW, Niemöller & Abel, Güth & Wolf, Brother, Make ma! und Keller Nähmaschinen + Service.
+
+Die Möglichkeiten unserer Textilwerkstatt sind nun vielfältiger und wir haben neue Partnerschaften mit Textilunternehmen geschlossen.  
+Durch Spenden und Rabatte hat sich der Wert unserer Ausstattung um über 6.000 € erhöht.  
+Vielen Dank und "make it sew"!
 
 ## Zahlenmäßiger Nachweis
 
