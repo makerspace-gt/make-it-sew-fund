@@ -216,13 +216,13 @@ Es ist noch Nacharbeit erforderlich. Gesagt, getan, aber aus technischen Gründe
 
 #### 28. Oktober – die Förderung wird bewilligt
 Wir schreiben Anfragen an Hersteller und Händler. Brother spendet uns je eine Overlock, Coverstitch und Näh- und Quiltmaschine. Make ma! gibt uns Rabatte auf Stickrahmen und Verbrauchsmaterialien.  
-Durch die Sachspende und die Rabatte haben wir wesentlich weniger Ausgaben als gedacht und können zusätzlich noch eine professionelle Sticksoftware, weitere Nähgarne und Nähnadeln für spezielle Anwendungen kaufen.
+Durch die Sachspende und die Rabatte haben wir wesentlich weniger Ausgaben als gedacht und können zusätzlich noch eine professionelle Sticksoftware inkl. Videokurs, weitere Nähgarne und Nähnadeln für spezielle Anwendungen kaufen.
  
 #### 18. November – Nähbar
-Da ein Garn nicht vorrätig ist, steht die Bestellung bei Nähwelt Flach noch aus. Ansonsten ist alles angekommen und wird inspiziert. Auch eine gebrauchte Brother Innov-is A65 haben wir trotz der Maschinenspende gekauft, da diese nicht so überwältigend und damit besser für Anfänger*innen geeignet ist.
+Da ein Garn nicht vorrätig ist, steht eine Bestellung noch aus. Ansonsten ist alles angekommen und wird inspiziert. Auch eine gebrauchte Brother Innov-is A65 haben wir trotz der Maschinenspende gekauft, da diese nicht so überwältigend und damit besser für Anfänger*innen geeignet ist.
 
 #### 16. Dezember – Geschenkbeutel nähen
-Mittlerweile haben wir Erfahrung mit den Maschinen und der Sticksoftware gemacht und nähen Geschenkbeutel für uns und als Dank für unsere Unterstützer*innen – NRW, Niemöller & Abel, Güth & Wolf, Brother, Make ma! und Keller Nähmaschinen + Service.
+Mittlerweile haben wir Erfahrung mit den Maschinen und der Sticksoftware gemacht und nähen gemeinsam Geschenkbeutel in verschiedenen Farben, Formen und Größen.
 
 Die Möglichkeiten unserer Textilwerkstatt sind nun vielfältiger und wir haben neue Partnerschaften mit Textilunternehmen geschlossen.  
 Durch Spenden und Rabatte hat sich der Wert unserer Ausstattung um über 6.000 € erhöht.  
