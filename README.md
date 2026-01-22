@@ -318,7 +318,7 @@ Es wird bestätigt, dass...
 
 |  Nr.  | Bezeichnung                                    | Name                                                                                  |                                                    |
 | :---: | ---------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------- |
-|   1   | make it sew auf einen Blick                    |                                                                                       |                                                    |
+|   1   | make it sew auf einen Blick                    | [e40c65a3a56fdec1499adb402ca4e854.jpg](./Bilder/e40c65a3a56fdec1499adb402ca4e854.jpg) | ![](./Bilder/e40c65a3a56fdec1499adb402ca4e854.jpg) |
 |   2   | Partnerschaft Niemöller & Abel X Makerspace GT | [c1a6127715b34564c0fe909c3f242787.jpg](./Bilder/9aa6e716e0c47db38c84f2e54795d96e.jpg) | ![](./Bilder/9aa6e716e0c47db38c84f2e54795d96e.jpg) |
 |   3   | Stoffspende Niemöller & Abel                   | [5340f285f8da1fb870a04df561445f24.jpg](./Bilder/5340f285f8da1fb870a04df561445f24.jpg) | ![](./Bilder/5340f285f8da1fb870a04df561445f24.jpg) |
 |   4   | Nähmaschine internaeht.de                      | [5eacbc1df4e24f76ec47a8e0ff72c587.jpg](./Bilder/5eacbc1df4e24f76ec47a8e0ff72c587.jpg) | ![](./Bilder/5eacbc1df4e24f76ec47a8e0ff72c587.jpg) |
