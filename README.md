@@ -327,3 +327,4 @@ Es wird bestätigt, dass...
 |   7   | Schneidplottermatte Nähwelt Flach              | [e2129d054fbfa59d2b63b1322c980797.jpg](./Bilder/e2129d054fbfa59d2b63b1322c980797.jpg) | ![](./Bilder/e2129d054fbfa59d2b63b1322c980797.jpg) |
 |   8   | Nähgarn Nähwelt Flach                          | [e125ca21f69ff786ea624f431733c5a3.jpg](./Bilder/e125ca21f69ff786ea624f431733c5a3.jpg) | ![](./Bilder/e125ca21f69ff786ea624f431733c5a3.jpg) |
 |   9   | Nähnadeln und Füße                             | [712aac3c2bb7500f7ab40c33a173295b.jpg](./Bilder/712aac3c2bb7500f7ab40c33a173295b.jpg) | ![](./Bilder/712aac3c2bb7500f7ab40c33a173295b.jpg) |
+|  10   | Geschenkbeutel                                 | [4985ff387c47236915d1ec872d7f871a.jpg](./Bilder/4985ff387c47236915d1ec872d7f871a.jpg) | ![](./Bilder/4985ff387c47236915d1ec872d7f871a.jpg) |
